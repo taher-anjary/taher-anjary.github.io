@@ -187,6 +187,9 @@ collections:
   talks:
     output: true
     permalink: /:collection/:path/
+  art:
+    output: true
+    permalink: "https://www.instagram.com/alternate_archives/"
 
 
 # Defaults
