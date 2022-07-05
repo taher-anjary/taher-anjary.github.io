@@ -1,6 +1,6 @@
 ---
 title: 'Learning Locomotion'
-date: 2012-08-14
+date: 2021-07-22
 permalink: /posts/2021/07/learning-locomotion/
 tags:
   - cool posts
