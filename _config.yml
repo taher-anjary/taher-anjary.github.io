@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Taher Anjary / Site Title"
+title                    : "Taher Anjary's Personal Website"
 title_separator          : "-"
 name                     : &name "Taher Anjary"
 description              : &description "personal description"
@@ -80,9 +80,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "Taher Anjary"
   avatar           : "BilkentDP_rlt.png"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "Passionate for creativity"
   location         : "Location"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
@@ -103,7 +103,7 @@ author:
   instagram        : "alternate_archives"
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : "https://www.linkedin.com/in/taher-anjary/"
   orcid            : "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
@@ -246,6 +246,14 @@ defaults:
       type: talks
     values:
       layout: talk
+      author_profile: true
+      share: true
+  # _art
+  - scope:
+      path: ""
+      type: art
+    values:
+      layout: single
       author_profile: true
       share: true
 
