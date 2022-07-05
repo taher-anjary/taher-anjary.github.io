@@ -11,8 +11,10 @@ redirect_from:
 
 Education
 ======
-* B.S. in Electrical & Electronics Engineering, Bilkent University, 2020, Ankara, Turkey
 * M.S. in Computer Science & Engineering, Koç University, 2023, Istanbul, Turkey
+* B.S. in Electrical & Electronics Engineering, Bilkent University, 2020, Ankara, Turkey
+* A'Levels Edexcel, 2015, MSB Educational Institute, Mombasa, Kenya
+* O'Levels Edexcel IGCSE, MSB Educational Institute, Mombasa, Kenya
 
 Work experience
 ======
@@ -89,18 +91,19 @@ Skills
 
 Other Projects
 ======
-* Dino-Run
-* UDP- Selective Repeat
-* Unsupervised OpenSet Object Detection
 * Transformer-based Image Caption Generation
-* FluWords
-* Global Disease Database
-* Occular Disease Recognition
+* Unsupervised OpenSet Object Detection
+* LEASegment
 * IMDB Text Description to Movie Recommendation
+* Occular Disease Recognition
+* Global Disease Database
+* UDP- Selective Repeat
+* Dino-Run
+* FluWords
 
 Neural Architectures
 ======
-* CNN, RNN, GAN, VAE, VQ-VAE, VQ-GAN, FRCNN, Transformers, LSTM, GNN, GCN, Diffusion models, Flow models
+* CNN, ResNet, VGG, RNN, GAN, VAE, VQ-VAE, VQ-GAN, FRCNN, Transformers, LSTM, GNN, GCN, Diffusion models, Flow models
 
 Big Data
 ======
