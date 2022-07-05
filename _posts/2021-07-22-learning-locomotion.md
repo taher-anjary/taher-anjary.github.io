@@ -3,9 +3,16 @@ title: 'Learning Locomotion'
 date: 2021-07-22
 permalink: /posts/2021/07/learning-locomotion/
 tags:
-  - cool posts
-  - category1
-  - category2
+  - reinforcement learning
+  - deep neural networks
+  - locomotion
+  - flappy bird
+  - genetic algorithms
+  - phase functioned neural networks
+  - machine learning
+  - hexapod
+  - robot
+  - cyborg
 ---
 
 Imagine you were given a hexapod- a six legged robot that kind of looks like a cyborg spider. And someone asks you to program it to walk. Your first though might be to use a bunch of trigonometric formulae to control each of its joints. Such an approach is hard-coded, difficult to design (believe me, I've tried), and your hexapod would not be able to adapt very well to changing terrain or speed- or at least, it would not look very organic.
