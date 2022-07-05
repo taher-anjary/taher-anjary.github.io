@@ -44,16 +44,19 @@ Work experience
 * 2019-2020: Electronics Engineering
   * NanoManyetik Instruments
     * 360 Vision Surveillance System
-    * Designed and optimized Wide-Angle-Lense Distortion Correction Algorithms
+    * Designed and optimized wide-angle-lense distortion correction algorithms
     * Implementation for high speed real-time performance on Xilinx FPGAs
-    * Video Stitching algorithms
-  * Supervisor: İsmail Gerçek
+    * Implemented optimized video blending algorithms
+    * Used MIPI-CSI II, UDP, Ethernet protocols
+    * Synchronized video streams from four 4k-HD camera modules
+    * Utilized video compression algorithms H.264/H.265
+    * Supervisor: İsmail Gerçek
 
 * July-September 2020: Research Assistant:
   * Bilkent University, Ankara, Turkey
-  * Research and Development of Genetic Algorithms
-  * Memory and Time consumption analyses, optimization, paralellization
-  * Supervisor: Professor Arif Bülent Özgüler
+    * Research and Development of Genetic Algorithms
+    * Memory and Time consumption analyses, optimization, paralellization
+    * Supervisor: Professor Arif Bülent Özgüler
   
 Skills
 ======
@@ -70,7 +73,13 @@ Skills
 * C/C++
 * BASH/ Shell
 * Ubuntu/ Linux
+* Blender 3D
+* Unity 3D (ML-Agents)
 * High-Performance-Computational Super-Clusters (HPC)- CentOS, SLURM
+* Adobe Photoshop, Lightroom, Premiere Pro
+* Lightworks, Kdenlive
+* WireShark
+* CANBUS, OBD-II
 * Skill 2
   * Sub-skill 2.1
   * Sub-skill 2.2
