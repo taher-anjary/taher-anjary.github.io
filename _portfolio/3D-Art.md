@@ -1,6 +1,6 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "3D Art"
+excerpt: "Synthwave Art, inspired by the 80's and fueled by Sci-Fi 1<br/><img src='/images/junction.png'>"
 collection: portfolio
 ---
 
