@@ -38,7 +38,7 @@ Work experience
   * Deployed Image & Video Super-Resolution Web-Applications
   * IoT Asset-Tracking, Fleet and Cold-Chain Management:
     * Developed user friendly interface to allow clients to define Custom GeoFences
-    * Deployed automated alarm system, automated PDF report generation and automated email notifications for client IoT devices' upon interrupt signals on the SigFox Network
+    * Deployed automated alarm system, automated PDF report generation and automated email notifications for client GPS IoT devices' upon interrupt signals on the SigFox Network
     * Streamlined UI on the Tago.IO platform  
 
 * 2019-2020: Electronics Engineering
