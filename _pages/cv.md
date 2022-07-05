@@ -26,9 +26,8 @@ Work experience
     * Supervisor: Professor Fatma Güney, Professor Deniz Yuret
 * 2021-2023: Teaching Assistant
   * Koç University, Computer Engineering
-  * Python
-  * BASH
   * Duties included:
+    * Teaching Python, BASH, Git, PyCharm
     * Designing autograded homework assignments
     * Designing midterm/final exam questions
     * Grading
@@ -49,20 +48,28 @@ Work experience
     * Implementation for high speed real-time performance on Xilinx FPGAs
     * Video Stitching algorithms
   * Supervisor: İsmail Gerçek
+
+* July-September 2020: Research Assistant:
+  * Bilkent University, Ankara, Turkey
+  * Research and Development of Genetic Algorithms
+  * Memory and Time consumption analyses, optimization, paralellization
+  * Supervisor: Professor Arif Bülent Özgüler
   
 Skills
 ======
 * Python
-* PyTorch
+* MATLAB
+* PyTorch/ TensorFlow
+* CUDA/ cuDNN
 * COLAB
-* MMCV/MMDet
+* MMCV/ MMDet
 * SQL
 * Java
 * VHDL
 * Assembly
 * C/C++
-* BASH/Shell
-* Unix/Ubuntu/Linux
+* BASH/ Shell
+* Ubuntu/ Linux
 * High-Performance-Computational Super-Clusters (HPC)- CentOS, SLURM
 * Skill 2
   * Sub-skill 2.1
