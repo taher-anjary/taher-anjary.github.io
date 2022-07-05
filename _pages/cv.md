@@ -61,6 +61,7 @@ Work experience
 Skills
 ======
 * Python
+* Julia/ Knet
 * MATLAB
 * PyTorch/ TensorFlow
 * CUDA/ cuDNN
@@ -85,6 +86,26 @@ Skills
   * Sub-skill 2.2
   * Sub-skill 2.3
 * Skill 3
+
+Other Projects
+======
+* Dino-Run
+* UDP- Selective Repeat
+* Unsupervised OpenSet Object Detection
+* Transformer-based Image Caption Generation
+* FluWords
+* Global Disease Database
+* Occular Disease Recognition
+* IMDB Text Description to Movie Recommendation
+
+Neural Architectures
+======
+* CNN, RNN, GAN, VAE, VQ-VAE, VQ-GAN, FRCNN, Transformers, LSTM, GNN, GCN, Diffusion models, Flow models
+
+Big Data
+======
+* MOT15, MOT17, MOTSynth, BDD100K
+* KITTI
 
 Publications
 ======
