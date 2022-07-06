@@ -72,7 +72,7 @@ Learning locomotion can be formulated as an RL problem where the state observed 
 
 RL algorithms are very powerful and really cool. They are especially used to solve complex problems where the correct answers are not always clear. For example, if you win a chess game, how would you know which move exactly led to victory. You really wouldn't. It's a bunch of carefully planned plus intuitive plus improvised moves that led to it. So you cannot always know what the 'right' move is at any given state.
 
-Sometimes, the agents discover a glitch in the environment and learns to exploit it, as can be seen in this Hide Go Seek example.
+Sometimes, the agents discover a glitch in the environment and learns to exploit it, as can be seen in this [Hide Go Seek](https://www.youtube.com/watch?v=n6nF9WfpPrA&ab_channel=It%27sBloodyScience%21) example.
 
 Maybe we should be worried :|
 
