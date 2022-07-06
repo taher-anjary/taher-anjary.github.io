@@ -74,6 +74,6 @@ RL algorithms are very powerful and really cool. They are especially used to sol
 
 Sometimes, the agents discover a glitch in the environment and learns to exploit it, as can be seen in this [Hide Go Seek](https://www.youtube.com/watch?v=n6nF9WfpPrA&ab_channel=It%27sBloodyScience%21) example.
 
-Maybe we should be worried :|
+Maybe we should be worried \:|
 
 END OF LINE
