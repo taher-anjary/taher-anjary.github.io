@@ -20,6 +20,7 @@ Fortunately, we live in an age where artificial intelligence can do the thinking
 
 Phase Functioned Neural Networks
 ======
+![alt text](/images/phasefunctionnn.jpeg)
 
 Neural Networks. Ah, I remember the day I first heard about them: an AI architecture quite literally inspired by brains.
 When you first learn about AI, you will quickly realize that the only reason that they are feasible is because of the large amounts of data and computation power that is available today. Datasets are a set of questions and answers. The AI(a neural net, for example) is trained on datasets by looking at a question, giving an answer and comparing its answer with the right answer. It then computes derivatives(gradients) based on the error, and uses these to update itself. When it updates itself, it is learning, becoming better. Talk about learning from mistakes. The larger the dataset, the more experience the trained neural net will have.
@@ -33,8 +34,6 @@ But what if you aren't a multi-million dollar company that can afford expensive 
 
 Genetic Algorithms
 ======
-<img src='/images/flappybird.gif'>
-"<img src='/images/flappybird.gif'>"
 ![alt text](/images/flappybird.gif)
 
 This method is quite literally inspired by concepts of evolution, reproduction and natural selection: the weakest will die, the strongest will pass on their genes, and the species becomes optimal as it evolves across generations. I get the chills when I think about this in robot and AI contexts.
@@ -55,6 +54,7 @@ If you're interested in learning more about genetic algorithms, I highly recomme
 
 Reinforcement Learning
 ======
+![alt text](/images/ragdoll.gif)
 
 This is a training technique you may have heard of in the context of training animals: You give the animal a reward when it does what you want, and punish it when it does something bad, and the animal figures out what it needs to do. If you apply this to AI, you can solve some really complex problems such as playing GO, playing League of Legends or even walking.
 
