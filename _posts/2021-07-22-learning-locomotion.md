@@ -20,7 +20,7 @@ Fortunately, we live in an age where artificial intelligence can do the thinking
 
 Phase Functioned Neural Networks
 ======
-![alt text](/images/phasefunctionnn.jpeg | width=500)
+![alt text](/images/phasefunctionnn.jpeg|width=500px)
 
 Neural Networks. Ah, I remember the day I first heard about them: an AI architecture quite literally inspired by brains.
 When you first learn about AI, you will quickly realize that the only reason that they are feasible is because of the large amounts of data and computation power that is available today. Datasets are a set of questions and answers. The AI(a neural net, for example) is trained on datasets by looking at a question, giving an answer and comparing its answer with the right answer. It then computes derivatives(gradients) based on the error, and uses these to update itself. When it updates itself, it is learning, becoming better. Talk about learning from mistakes. The larger the dataset, the more experience the trained neural net will have.
