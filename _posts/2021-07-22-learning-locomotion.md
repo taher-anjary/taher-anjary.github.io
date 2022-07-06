@@ -33,6 +33,7 @@ But what if you aren't a multi-million dollar company that can afford expensive 
 
 Genetic Algorithms
 ======
+<img src='/images/flappybird.gif'>
 
 This method is quite literally inspired by concepts of evolution, reproduction and natural selection: the weakest will die, the strongest will pass on their genes, and the species becomes optimal as it evolves across generations. I get the chills when I think about this in robot and AI contexts.
 A specimen such as a flappy bird may be controlled by a neural net. The neural net is made up of a bunch of parameters, or numbers that can describe various learnt non-linear activation functions. Do not worry about this crazy jargon. All you need to know is that a neural net is made up of parameters(numbers) that will be updated as it learns.
