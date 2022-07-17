@@ -1,15 +1,12 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "> whoami_"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-
-> \> whoami_
-=======
 
 Hi, I'm Taher. I work on Computer Vision problems using deep neural networks. I was originally interested in cars and robots, which is why I thought a BSc in Electrical and Electronics Engineering was a good idea. But when I discovered Deep Learning- a field of Articial Intelligence, my passion evolved, which is why I now work on Multi-Object-Tracking for Autonomous Vehicles in Istanbul while I earn my MSc in Computer Science & Engineering.
 
