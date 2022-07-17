@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-> whoami_
+> \> whoami_
 =======
 
 Hi, I'm Taher. I work on Computer Vision problems using deep neural networks. I was originally interested in cars and robots, which is why I thought a BSc in Electrical and Electronics Engineering was a good idea. But when I discovered Deep Learning- a field of Articial Intelligence, my passion evolved, which is why I now work on Multi-Object-Tracking for Autonomous Vehicles in Istanbul while I earn my MSc in Computer Science & Engineering.
@@ -17,14 +17,17 @@ My original passions, however, have not died out. I build cars out of cardboard 
 
 I like the idea of being able to create intelligent systems that can run on their own, which is why I learn about Reiforcement Learning, when I can. This is so that I can one day build robots in games and in real life with organic, adaptive and fluid movements. Imagine Doctor Octopus, Tony Stark and Doctor Frankenstein hanging out in the Bat-Cave, that's where(and who) I want to be.
 
-I also like to build stuff with my hands, and I love fireworks, but they tend to get banned wherever I go. So I make my own by sourcing the necessary chemicals. This led me down a path to pyromania, which is why I also breathe fire and fire-dance.
+I also like to build stuff with my hands, and I love fireworks, but they tend to get banned wherever I go. So I make my own by sourcing the necessary chemicals. This led me down a path to pyromania, which is why I also breathe fire and fire-dance. I also build tasers, flame-throwers and bottle-rocket launchers for fun.
 
-Feel free to look through my CV and Github for a more professional understanding of what I can do for you. Look through my blogs to get a sense of what drives me. Look through my art page(see Instagram link on your left, or the 'Art' tab at the top) and YouTube channel to see how I like to spend my free time- and email me if there's anything you'd like me to do for you. Remember, I love to create!
+Feel free to look through my CV and Github for a more professional understanding of what I can do for you. Look through my blogs to get a sense of what drives me. Look through my art page(see Instagram link on your left, or the 'Art' tab at the top) and YouTube channel to see how I like to spend my free time- and email me if there's anything you'd like me to do for you. 
 
-> END OF LINE_
+Remember, I love to create!
+
+\> END OF LINE_
 
 P.S. this site is still under development, so please ignore the sloppiness \:D
 
+_______________________________________________________________________________
 
 
 This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
