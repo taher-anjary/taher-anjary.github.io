@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "> whoami_"
+title: "> /> whoami_"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -20,7 +20,7 @@ Feel free to look through my CV and Github for a more professional understanding
 
 Remember, I love to create!
 
-\> END OF LINE_
+**> END OF LINE_**
 
 P.S. this site is still under development, so please ignore the sloppiness \:D
 
