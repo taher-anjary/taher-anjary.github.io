@@ -38,7 +38,9 @@ Simultaneous Localization and Mapping(SLAM) is a technique used by autonomous ag
 
 Directive?
 ======
+
 <img src="/images/cute-robot.png" width="700">
+
 I've been doing research in the field of computer vision, which is unsurprisingly challenging. I cope by seeing the similarities between AI algorithms and mother nature. It motivates me to think that we can literally play Dr. Frankenstein and mix ideas from nature and science to create truly intelligent things. Science fiction movies have played a big role in getting me where I am so far: Terminator, I-robot, TRON legacy, WALL-E just to name a few. Let's just always remember to incorporate the 3 laws of robots into our mad creations so that we don't end up with a SkyNet situation:
 * A robot may not injure a human being or, through inaction, allow a human being to come to harm
 * A robot must obey the orders given it by human beings except where such orders would conflict with the First Law
@@ -46,4 +48,4 @@ I've been doing research in the field of computer vision, which is unsurprisingl
 
 Other than that, I hope you all found this article to be a pleasant overview of some of the latest trends that I've noticed in the field of AI. Let me know if you want me to write about anything in particular. I love forming comparisons to nature and going nuts with it.
 
-/**> END OF LINE_**
+**> END OF LINE_**
