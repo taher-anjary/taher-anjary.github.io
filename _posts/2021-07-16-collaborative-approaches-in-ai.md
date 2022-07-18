@@ -13,6 +13,7 @@ tags:
 
 
 I believe that in order for a system to be successful in large scale contexts, the system must learn to collaborate. The idea makes sense considering how the human species dominated the earth because we learnt to cooperate. We see this in nature as well; Packs of wolves and prides of lions learnt to hunt together as teamwork proved to be more efficient and effective. Ant colonies can join themselves to form bridges or rafts when faced with appropriate obstacles. Amazing! Don't you think?
+
 <img src="/images/apes-together-strong.jpeg" width="700">
 
 Similar trends are being used in the field of AI. In this article, I'll briefly describe some of them:
