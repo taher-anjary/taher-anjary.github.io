@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "> /> whoami_"
+title: "> > whoami_"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
